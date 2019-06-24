@@ -1,0 +1,13 @@
+// These colors are specific to the theme. Do not use in a package!
+@very-light-gray: %%fg0%%;
+@light-gray: %%fg2%%;
+@gray: %%bg2%%;
+@dark-gray: %%bg1%%;
+@very-dark-gray: %%bg0%%;
+@cyan: %%cyn%%;
+@blue: %%acc%%;
+@purple: %%gnt%%;
+@green: %%grn%%;
+@red: %%red%%;
+@orange: %%ylw%%;
+@light-orange: %%ylw%%;
